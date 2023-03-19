@@ -137,137 +137,140 @@ Madhu Sudhanarrao (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgCh
 Ian Mayhood (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6169,O-6137,
 Saransh Goel (OS),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Steward,O-6170,O-6138,
 Mangesh Khaire (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6171,O-6139,
-Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"P1 - www.cenovus.com</br>
-P1 - helix.cenovus.com</br>
-P1 - Sitecore Managed Cloud</br>
-P1 - Huskyenergy.com - Corporate External Website</br>
-P1 - Huskyworks.ca - Retail External Website</br>
-P2 - Huskymidstream.com - External Website</br>
-P2 - HuskyPRO.ca - Retail External Website</br>
-P2 - HuskyGrain.com - Retail External Website</br>
-P2 - Emergency Response Plans Website</br>
-P2 - Enspecs - Engineering Specs</br>
-P2 - HuskyAsphalt.com - Retail External Website</br>
-P2 - suppliers.huskyenergy.com - Website</br>
-P2 - Yellow Pages</br>
-P2 - myHuskyRewards.ca - Retail External Website</br>
-P3 - Dynamic Distribution Tool</br>
-P3 - Matomo</br>
-P3 - Brightcove</br>
-P3 - INC</br>
-P3 - Barchart</br>
-P3 - Bananatag</br>
-P3 - Zylab One</br>
-P4 - Staff Classified Ads - PRD - BRW</br>
-P4 - iContact</br>
-P4 - Stakeholder Tracking System (StakeTracker)</br>
-P4 - TDS</br>
-P4 - ESS - PRD</br>
-P4 - Google Tag Manager</br>
-P4 - Cenovus Holidays</br>
-P4 - Hootsuite</br>
-P4 - Google Analytics</br>
-P4 - Meltwater</br>
-P4 - FindPerson</br>
-P4 - Install Printer Web Page</br>
-P4 - Slido</br>
-P4 - KeePass</br>
-P4 - DataMotion Secure Email</br>",O-6172,O-6167,Large
-Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"P2 - DocuSign (Cloud Solution) </br>
-P2 - Visual Studio </br>
-P2 - Snow Software Asset Management </br>
-P2 - HostExplorer </br>
-P2 - Qualtrics Survey tool </br>
-P2 - Portfolio Program Management Tool (PPM) - SharePoint Online </br>
-P2 - Subversion (source code) Repository </br>
-P2 - Salesforce - Vendor Relationship Management (VRM) </br>
-P2 - Salesforce - Service Desk In A Box for Upstream Finance </br>
-P2 - ECNAuthentication </br>
-P2 - Tomcat </br>
-P3 - Snow software asset management - CVE </br>
-P3 - Adobe Illustrator </br>
-P3 - Visual Source Safe </br>
-P3 - Adobe Acrobat Professional </br>
-P3 - JIRA (Webapp) </br>
-P3 - Adobe Flash </br>
-P3 - Adobe InDesign </br>
-P3 - DATUM </br>
-P3 - Adobe Sign </br>
-P3 - .Net Reflector Standard </br>
-P3 - Stylus Studio </br>
-P3 - OAS </br>
-P3 - Weblogic Server </br>
-P3 - WarManager </br>
-P3 - WarManager - BRW </br>
-P3 - Apache HTTP server </br>
-P4 - MindManager </br>
-P4 - Adobe RoboHelp </br>
-P4 - ITAP Scripts </br>
-P4 - Visual Studio Professional 2019 </br>
-P4 - Outlook Appointment Adder Service </br>
-P4 - UltraEdit-32 </br>
-P4 - FileZilla (FTP Client) </br>
-P4 - Outlook Appointment Adder Service - BRW </br>
-P4 - ExtenXLS </br>
-P4 - Advanced Query Tool </br>
-P4 - Adobe Captivate </br>
-P4 - JMeter </br>
-P4 - Adobe Dreamweaver </br>
-P4 - PDF2TXT </br>
-P4 - CorelDraw Graphics Suite </br>
-P4 - Git Extensions </br>
-P4 - SQL Developer </br>
-P4 - Adobe Photoshop Elements </br>
-P4 - Hummingbird Exceed </br>
-P4 - Beyond Compare </br>
-P4 - Adobe LiveCycle Designer </br>
-P4 - Adobe LiveCycle Designer </br>
-P4 - Git (SCM) </br>
-P4 - Unified Functional Testing (UFT) </br>
-P4 - PDF to Excel Converter </br>
-P4 - GitBucket </br>
-P4 - Visual Studio Code </br>
-P4 - GitLab (LHSE) </br>
-P4 - Visual Studio Professional 2017 </br>
-P4 - Infragistics Net Advantage for ASP.NET </br>
-P4 - Generic Mailer </br>
-P4 - PDF OCR </br>
-P4 - Adobe AIR </br>
-P4 - Aspose.Email for .NET </br>
-P4 - Smartsheet </br>
-P4 - FreeMind </br>
-P4 - Application Lifecycle Management (ALM) </br>",O-6172,O-6171,XLarge
-Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"P1 - Range Safety Website </br>
-P1 - CLAWR Pass Control System </br>
-P1 - SkyRouter </br>
-P1 - Talkmaster </br>
-P1 - TRBOnet </br>
-P2 - PlanningSpace - Prod </br>
-P2 - Everbridge </br>
-P2 - BowTie Prod </br>
-P2 - SkillsTrak </br>
-P2 - Firmex </br>
-P2 - ClearRisk </br>
-P2 - Salesforce - Non-Conformance Management (NCR) </br>
-P3 - TapRoot - Prod </br>
-P3 - CLAWR Occurrence Reporting System </br>
-P3 - Causelink - Prod </br>
-P3 - GW3-TRBO </br>
-P3 - Viewnet (previously CakeWare) </br>
-P3 - Nasdaq Boardvantage </br>
-P3 - Contraxx Admin </br>
-P3 - Contraxx </br>
-P3 - @Risk </br>
-P3 - Precision Tree Pro (Western Canada) </br>
-P3 - @Risk legacy </br>
-P4 - PalantirRESOURCE </br>
-P4 - Cold Lake Air Weapons Range Training Module </br>
-P4 - GEMS </br>
-P4 - IPfolio </br>
-P4 - SEDAR </br>
-P4 - SPIES III </br>
-P4 - K Central </br>
-P4 - Crystal Ball 11 </br>
-P4 - PwC Connect </br>
-P4 - Teammate </br>
-P4 - LexisNexis Quicklaw </br>",O-6172,O-6162,Large
+Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"P1 - www.cenovus.com - Manikant Chauhan</br>
+P1 - helix.cenovus.com - Manikant Chauhan</br>
+P1 - Sitecore Managed Cloud - Manikant Chauhan</br>
+P1 - Huskyenergy.com - Corporate External Website - Prem Kumar Gujjeri</br>
+P1 - Huskyworks.ca - Retail External Website - Sandeep Veeravalli</br>
+P2 - Huskymidstream.com - External Website - Prem Kumar Gujjeri</br>
+P2 - HuskyPRO.ca - Retail External Website - Durga Reddy</br>
+P2 - HuskyGrain.com - Retail External Website - Prem Kumar Gujjeri</br>
+P2 - Emergency Response Plans Website - Prem Kumar Gujjeri</br>
+P2 - Enspecs - Engineering Specs - Prem Kumar Gujjeri</br>
+P2 - HuskyAsphalt.com - Retail External Website - Sandeep Veeravalli</br>
+P2 - suppliers.huskyenergy.com - Website - Prem Kumar Gujjeri</br>
+P2 - Yellow Pages - Jyothi Surepally</br>
+P2 - myHuskyRewards.ca - Retail External Website - Sandeep Veeravalli</br>
+P3 - Dynamic Distribution Tool - Vennarapu Ramesh</br>
+P3 - Matomo - Manikant Chauhan</br>
+P3 - Brightcove - Vennarapu Ramesh</br>
+P3 - INC - Manikant Chauhan</br>
+P3 - Barchart - Sushree Rutayanee</br>
+P3 - Bananatag - Prem Kumar Gujjeri</br>
+P3 - Zylab One - Vaseem Shaik</br>
+P4 - Staff Classified Ads - PRD - BRW - Silpa Prasad</br>
+P4 - iContact - Vennarapu Ramesh</br>
+P4 - Stakeholder Tracking System (StakeTracker) - Hemanth Nalajala</br>
+P4 - TDS - Vaseem Shaik</br>
+P4 - ESS - PRD - Sushree Rutayanee</br>
+P4 - Google Tag Manager - Rose Maria Jose</br>
+P4 - Cenovus Holidays - Vennarapu Ramesh</br>
+P4 - Hootsuite - Vennarapu Ramesh</br>
+P4 - Google Analytics - Rose Maria Jose</br>
+P4 - Meltwater - Vennarapu Ramesh</br>
+P4 - FindPerson - Vennarapu Ramesh</br>
+P4 - Install Printer Web Page - Vennarapu Ramesh</br>
+P4 - Slido - Roshan Yugendra Perumal</br>
+P4 - KeePass - Sanket Khedekar</br>
+P4 - DataMotion Secure Email - Sushree Rutayanee</br>",O-6172,O-6167,Large
+Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"P2 - DocuSign (Cloud Solution) - Prem Kumar Gujjeri</br>
+P2 - Visual Studio - Vaseem Shaik</br>
+P2 - Snow Software Asset Management - Chandana Rishi</br>
+P2 - HostExplorer - Manisha Choudhary</br>
+P2 - Qualtrics Survey tool - Roshan Yugendra Perumal</br>
+P2 - Portfolio Program Management Tool (PPM) - SharePoint Online - Supriya Rachamadugu</br>
+P2 - Subversion (source code) Repository - Prem Kumar Gujjeri</br>
+P2 - Salesforce - Vendor Relationship Management (VRM) - Madhu Sudhanarao</br>
+P2 - Salesforce - Service Desk In A Box for Upstream Finance - Madhu Sudhanarao</br>
+P2 - ECNAuthentication - Sushree Rutayanee</br>
+P2 - Tomcat - Sushree Rutayanee</br>
+P3 - Snow software asset management - CVE - Chandana Rishi</br>
+P3 - Adobe Illustrator - </br>
+P3 - Visual Source Safe - Rose Maria Jose</br>
+P3 - Adobe Acrobat Professional - Roshan Yugendra Perumal</br>
+P3 - JIRA (Webapp) - Rajini Kona</br>
+P3 - Adobe Flash - </br>
+P3 - Adobe InDesign - </br>
+P3 - DATUM - Manikant Chauhan</br>
+P3 - Adobe Sign - Roshan Yugendra Perumal</br>
+P3 - .Net Reflector Standard - Vaseem Shaik</br>
+P3 - Stylus Studio - Imran Mohammad</br>
+P3 - OAS - Vaseem Shaik</br>
+P3 - Weblogic Server - Sushree Rutayanee</br>
+P3 - WarManager - Silpa Prasad</br>
+P3 - WarManager - BRW - Silpa Prasad</br>
+P3 - Apache HTTP server - Sushree Rutayanee</br>
+P4 - MindManager - Sushree Rutayanee</br>
+P4 - Adobe RoboHelp - Roshan Yugendra Perumal</br>
+P4 - ITAP Scripts - Manikant Chauhan</br>
+P4 - Visual Studio Professional 2019 - Siddhant Agrawal</br>
+P4 - Outlook Appointment Adder Service - Silpa Prasad</br>
+P4 - UltraEdit-32 - Viswa Indana</br>
+P4 - FileZilla (FTP Client) - Silpa Prasad</br>
+P4 - Outlook Appointment Adder Service - BRW - Silpa Prasad</br>
+P4 - ExtenXLS - Siddhant Agrawal</br>
+P4 - Advanced Query Tool - Vennarapu Ramesh</br>
+P4 - Adobe Captivate - Roshan Yugendra Perumal</br>
+P4 - JMeter - Viswa Indana</br>
+P4 - Adobe Dreamweaver - </br>
+P4 - PDF2TXT - Jyothi Surepally</br>
+P4 - CorelDraw Graphics Suite - Amit Aher</br>
+P4 - Git Extensions - Jyothi Surepally</br>
+P4 - SQL Developer - Sushmitha Srinivasa Nunna</br>
+P4 - Adobe Photoshop Elements - </br>
+P4 - Hummingbird Exceed - </br>
+P4 - Beyond Compare - Sushree Rutayanee</br>
+P4 - Adobe LiveCycle Designer - </br>
+P4 - Adobe LiveCycle Designer - Roshan Yugendra Perumal</br>
+P4 - Git (SCM) - Jyothi Surepally</br>
+P4 - Unified Functional Testing (UFT) - Kumar Adarsh</br>
+P4 - PDF to Excel Converter - Jyothi Surepally</br>
+P4 - GitBucket - Jyothi Surepally</br>
+P4 - Visual Studio Code - Silpa Prasad</br>
+P4 - GitLab (LHSE) - Abhinav Kumar</br>
+P4 - Visual Studio Professional 2017 - Siddhant Agrawal</br>
+P4 - Infragistics Net Advantage for ASP.NET - Vaseem Shaik</br>
+P4 - Generic Mailer - Siddhant Agrawal</br>
+P4 - PDF OCR - Sanket Khedekar</br>
+P4 - Adobe AIR - Roshan Yugendra Perumal</br>
+P4 - Aspose.Email for .NET - Vaseem Shaik</br>
+P4 - Smartsheet - Vaseem Shaik</br>
+P4 - FreeMind - Sushree Rutayanee</br>
+P4 - Application Lifecycle Management (ALM) - Supriya Rachamadugu</br>",O-6172,O-6171,XLarge
+Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"P1 - Range Safety Website - Mangesh Khaire</br>
+P1 - CLAWR Pass Control System - Mangesh Khaire</br>
+P1 - SkyRouter - Santoshkumar Chavan</br>
+P1 - Talkmaster - Mangesh Khaire</br>
+P1 - TRBOnet - Mangesh Khaire</br>
+P2 - PlanningSpace - Prod - Sandeep Veeravalli</br>
+P2 - Everbridge - Prem Kumar Gujjeri</br>
+P2 - BowTie Prod - Prem Kumar Gujjeri</br>
+P2 - SkillsTrak - Prem Kumar Gujjeri</br>
+P2 - Firmex - Prem Kumar Gujjeri</br>
+P2 - ClearRisk - Prem Kumar Gujjeri</br>
+P2 - Salesforce - Non-Conformance Management - Madhu Sudhanarao</br>
+P3 - TapRoot - Prod - Prem Kumar Gujjeri</br>
+P3 - CLAWR Occurrence Reporting System - Mangesh Khaire</br>
+P3 - Causelink - Prod - Prem Kumar Gujjeri</br>
+P3 - GW3-TRBO - Mangesh Khaire</br>
+P3 - Viewnet (previously CakeWare) - Prem Kumar Gujjeri</br>
+P3 - Contraxx - PRD - Jyothi Surepally</br>
+P3 - Nasdaq Boardvantage - Sushree Rutayanee</br>
+P3 - Contraxx Admin - Vaseem Shaik</br>
+P3 - Contraxx - Jyothi Surepally</br>
+P3 - @Risk - Shraddha Gandla</br>
+P3 - Precision Tree Pro (Western Canada) - Shraddha Gandla</br>
+P3 - @Risk legacy - Vaseem Shaik</br>
+P4 - PalantirRESOURCE - Sandeep Veeravalli</br>
+P4 - Cold Lake Air Weapons Range Training Module - Mangesh Khaire</br>
+P4 - GEMS - Jyothi Surepally</br>
+P4 - IPfolio - Amit Aher</br>
+P4 - Teammate - PRD - BRW - Amit Aher</br>
+P4 - SEDAR - Prem Kumar Gujjeri</br>
+P4 - SPIES III - Sushree Rutayanee</br>
+P4 - K Central - Prem Kumar Gujjeri</br>
+P4 - Crystal Ball 11 - Manikant Chauhan</br>
+P4 - PwC Connect - Prem Kumar Gujjeri</br>
+P4 - Teammate - Amit Aher</br>
+P4 - Teammate - PRD - Amit Aher</br>
+P4 - LexisNexis Quicklaw - Jyothi Surepally</br>",O-6172,O-6162,Large
