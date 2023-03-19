@@ -1,23 +1,23 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Cenovus,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,Cenovus,O-6065,,
-Norm Bonin,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Sr. Manager, Upstream IT",O-6066,O-6065,
-Courtney Woolhouse,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Sr. Manager, Downstream IT",O-6067,O-6065,
-Sophia Munoz Guzman,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,"Sr. Manager, Corporate IT",O-6068,O-6065,
-Greg Babuk,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Release Planning Advisor,O-6069,O-6066,
-Darren Paulenko,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, Upstream Application",O-6070,O-6066,
-Michelle Leschert,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Product Manager , GIS & SCADA",O-6071,O-6066,
-Cathy Kelly,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Acting Manager, IT Atlantic
+Cenovus,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,Cenovus,O-6065,,
+Norm Bonin,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Sr. Manager, Upstream IT",O-6066,O-6065,
+Courtney Woolhouse,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Sr. Manager, Downstream IT",O-6067,O-6065,
+Sophia Munoz Guzman,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,"Sr. Manager, Corporate IT",O-6068,O-6065,
+Greg Babuk,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Release Planning Advisor,O-6069,O-6066,
+Darren Paulenko,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, Upstream Application",O-6070,O-6066,
+Michelle Leschert,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Product Manager , GIS & SCADA",O-6071,O-6066,
+Cathy Kelly,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Acting Manager, IT Atlantic
 Region",O-6072,O-6066,
-Anna Raczynski,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Release Planning Advisor,O-6073,O-6067,
-Wes Klassen,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, Downstream",O-6074,O-6067,
-Allan Tawse,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Product Manager, ETRM",O-6075,O-6067,
-Chad Piper,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, US IT Downstream",O-6076,O-6067,
-Cari Johnson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, Corporate Services
+Anna Raczynski,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Release Planning Advisor,O-6073,O-6067,
+Wes Klassen,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, Downstream",O-6074,O-6067,
+Allan Tawse,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Product Manager, ETRM",O-6075,O-6067,
+Chad Piper,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, US IT Downstream",O-6076,O-6067,
+Cari Johnson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, Corporate Services
 Applications",O-6077,O-6068,
-Kristen Sauve,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Product Manager, Service Now",O-6078,O-6068,
-Erin Scott,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, Data & Information
+Kristen Sauve,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Product Manager, Service Now",O-6078,O-6068,
+Erin Scott,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, Data & Information
 Management",O-6079,O-6068,
-Curtis Despins,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.svg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Release Planning Advisor,O-6080,O-6068,
+Curtis Despins,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Release Planning Advisor,O-6080,O-6068,
 Operational Technology Support,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Portfolio,O-6081,O-6070,
 "Field Operations, 
 Production and Facility
