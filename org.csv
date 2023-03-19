@@ -1,109 +1,109 @@
 name,imageUrl,area,profileUrl,office,tags,isOnshoreUser,positionName,id,parentId,size
-Cenovus,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,CVE,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",No,Cenovus,O-6065,,
-Norm Bonin,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Sr. Manager, Upstream IT",O-6066,O-6065,
-Courtney Woolhouse,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Sr. Manager, Downstream IT",O-6067,O-6065,
-Sophia Munoz Guzman,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",No,"Sr. Manager, Corporate IT",O-6068,O-6065,
-Greg Babuk,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Release Planning Advisor,O-6069,O-6066,
-Darren Paulenko,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Manager, Upstream Application",O-6070,O-6066,
-Michelle Leschert,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Product Manager , GIS & SCADA",O-6071,O-6066,
-Cathy Kelly,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Acting Manager, IT Atlantic
+Cenovus,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cenovus.png,CVE,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",Yes,Cenovus,O-6065,,
+Norm Bonin,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Sr. Manager, Upstream IT",O-6066,O-6065,
+Courtney Woolhouse,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Sr. Manager, Downstream IT",O-6067,O-6065,
+Sophia Munoz Guzman,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",Yes,"Sr. Manager, Corporate IT",O-6068,O-6065,
+Greg Babuk,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Release Planning Advisor,O-6069,O-6066,
+Darren Paulenko,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Manager, Upstream Application",O-6070,O-6066,
+Michelle Leschert,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Product Manager , GIS & SCADA",O-6071,O-6066,
+Cathy Kelly,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Acting Manager, IT Atlantic
 Region",O-6072,O-6066,
-Anna Raczynski,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Release Planning Advisor,O-6073,O-6067,
-Wes Klassen,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Manager, Downstream",O-6074,O-6067,
-Allan Tawse,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Product Manager, ETRM",O-6075,O-6067,
-Chad Piper,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Manager, US IT Downstream",O-6076,O-6067,
-Cari Johnson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Manager, Corporate Services
+Anna Raczynski,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Release Planning Advisor,O-6073,O-6067,
+Wes Klassen,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Manager, Downstream",O-6074,O-6067,
+Allan Tawse,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Product Manager, ETRM",O-6075,O-6067,
+Chad Piper,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Manager, US IT Downstream",O-6076,O-6067,
+Cari Johnson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Manager, Corporate Services
 Applications",O-6077,O-6068,
-Kristen Sauve,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Product Manager, Service Now",O-6078,O-6068,
-Erin Scott,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"Manager, Data & Information
+Kristen Sauve,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Product Manager, Service Now",O-6078,O-6068,
+Erin Scott,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"Manager, Data & Information
 Management",O-6079,O-6068,
-Curtis Despins,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Release Planning Advisor,O-6080,O-6068,
-Operational Technology Support,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6081,O-6070,
+Curtis Despins,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Release Planning Advisor,O-6080,O-6068,
+Operational Technology Support,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6081,O-6070,
 "Field Operations, 
 Production and Facility
-Management",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6082,O-6070,
+Management",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6082,O-6070,
 "Land and Well Management
-Business",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6083,O-6070,
-GGRE Support,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6084,O-6070,
-GIS,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6085,O-6071,
+Business",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6083,O-6070,
+GGRE Support,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6084,O-6070,
+GIS,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6085,O-6071,
 "Reservoir Modelling
-GGRE",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6086,O-6072,
+GGRE",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6086,O-6072,
 "Process Safety, Engineering,
-Contract Management",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6087,O-6072,
+Contract Management",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6087,O-6072,
 "Asset Mgmt HR Corporate
-Content Management",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6088,O-6072,
-Services,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6089,O-6074,
-Health & Safety,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6090,O-6074,
+Content Management",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6088,O-6072,
+Services,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6089,O-6074,
+Health & Safety,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6090,O-6074,
 "IT/Operations
 (Maintenance &
-Reliability)",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6091,O-6074,
-Transportation,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6092,O-6074,
-Retail,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6093,O-6074,
-Manufacturing,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6094,O-6074,
+Reliability)",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6091,O-6074,
+Transportation,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6092,O-6074,
+Retail,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6093,O-6074,
+Manufacturing,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6094,O-6074,
 "Process Engineering &
-Control",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6095,O-6074,
+Control",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6095,O-6074,
 "ETRM (Nat Gas, Crude, Cdn
-Derivatives)",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6096,O-6075,
-Refinery Operations,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6097,O-6076,
+Derivatives)",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6096,O-6075,
+Refinery Operations,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6097,O-6076,
 "Audit, Legal, Process Safety,
 Military, Maintenance &
 Reliability, Risk, Corporate
-Planning,",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6098,O-6077,
+Planning,",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6098,O-6077,
 "HR, Security,
-Workplace & Real Estate",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6099,O-6077,
+Workplace & Real Estate",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6099,O-6077,
 "Finance, Production
 Accounting, Supply Chain
-Mgmt",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6100,O-6077,
+Mgmt",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6100,O-6077,
 "Health & Safety, Environment,
-Regulatory",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6101,O-6077,
-Service Now,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6102,O-6078,
+Regulatory",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6101,O-6077,
+Service Now,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6102,O-6078,
 "Communication & Stakeholder
-Relations",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6103,O-6079,
+Relations",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6103,O-6079,
 "Data Analytics & Science,
-Sales force, CART (Jivs)",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6104,O-6079,
+Sales force, CART (Jivs)",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6104,O-6079,
 "Content Server, Coveo,
-Records Management",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6105,O-6079,
-"Sharepoint, Power Platform",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6106,O-6079,
-IT,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,Portfolio,O-6107,O-6079,
-Darwin Krause,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6108,O-6081,
-Shauna Ko,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6109,O-6082,
-Lane Gibson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6110,O-6082,
-David Wilson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6111,O-6083,
-John Yuan,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6112,O-6083,
-Aderonke Ojei,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6113,O-6084,
-Richard Cwik,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6114,O-6084,
-John Watson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6115,O-6085,
-Rick Melnick,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6116,O-6086,
-Francisco Del Aguila,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6117,O-6087,
-Cathy Kelly,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6118,O-6087,
-Trevor Hogan,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6119,O-6088,
-Glen Hickey,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6120,O-6088,
+Records Management",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6105,O-6079,
+"Sharepoint, Power Platform",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6106,O-6079,
+IT,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,Portfolio,O-6107,O-6079,
+Darwin Krause,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6108,O-6081,
+Shauna Ko,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6109,O-6082,
+Lane Gibson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6110,O-6082,
+David Wilson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6111,O-6083,
+John Yuan,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6112,O-6083,
+Aderonke Ojei,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6113,O-6084,
+Richard Cwik,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6114,O-6084,
+John Watson,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6115,O-6085,
+Rick Melnick,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6116,O-6086,
+Francisco Del Aguila,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6117,O-6087,
+Cathy Kelly,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6118,O-6087,
+Trevor Hogan,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6119,O-6088,
+Glen Hickey,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6120,O-6088,
 "Carrick Lebrecht
-Randy Okuma",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisors,O-6121,O-6089,
+Randy Okuma",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisors,O-6121,O-6089,
 "Don Ketchum
 Jonathan Chan
-Michael Wilder",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisors,O-6122,O-6090,
+Michael Wilder",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisors,O-6122,O-6090,
 "David Litsey
 Jonathan Chan
-Kody LaPoint",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisors,O-6123,O-6091,
-Derek Eiteneier,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6124,O-6092,
-Jonathan Chan,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6125,O-6093,
-Carrick Lebrecht,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6126,O-6094,
-David Litsey,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6127,O-6095,
+Kody LaPoint",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisors,O-6123,O-6091,
+Derek Eiteneier,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6124,O-6092,
+Jonathan Chan,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6125,O-6093,
+Carrick Lebrecht,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6126,O-6094,
+David Litsey,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6127,O-6095,
 "Randy Okuma
-Derek Eiteneier",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisors,O-6128,O-6096,
+Derek Eiteneier",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisors,O-6128,O-6096,
 "Carrick Lebrecht
-Randy Okuma",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisors,O-6129,O-6097,
-Kal Elsidawi,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6130,O-6098,
-Mayra Meza Gonzales,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6131,O-6099,
-Nicolas Ho,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6132,O-6100,
-Wendy Choi,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6133,O-6101,
-Kristen Sauve,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6134,O-6102,
-Rose Burton,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6135,O-6103,
-Curtis Despins,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6136,O-6104,
-Leslie Ann Trimble,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6137,O-6105,
-Steven Tulssi,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6138,O-6106,
-Rodney Rhodes,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Advisor,O-6139,O-6107,
+Randy Okuma",https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Team.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisors,O-6129,O-6097,
+Kal Elsidawi,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6130,O-6098,
+Mayra Meza Gonzales,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6131,O-6099,
+Nicolas Ho,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6132,O-6100,
+Wendy Choi,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6133,O-6101,
+Kristen Sauve,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6134,O-6102,
+Rose Burton,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6135,O-6103,
+Curtis Despins,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6136,O-6104,
+Leslie Ann Trimble,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6137,O-6105,
+Steven Tulssi,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6138,O-6106,
+Rodney Rhodes,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Advisor,O-6139,O-6107,
 Sandip Sagare (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6140,O-6108,
 Sanmoy Maity (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6141,O-6109,
 Noor Hasan (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Steward,O-6142,O-6110,
@@ -133,11 +133,11 @@ Vaseem Shaik (OS),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/
 Santosh Kumar Chavan(OS),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Steward,O-6165,O-6133,
 Poorna Chand (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6166,O-6134,
 Mangesh Khaire (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6167,O-6135,
-Madhusudhanarrao (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6168,O-6136,
+Madhu Sudhanarrao (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6168,O-6136,
 Ian Mayhood (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6169,O-6137,
 Saransh Goel (OS),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,App Steward,O-6170,O-6138,
 Mangesh Khaire (ON),https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,ACN,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,App Steward,O-6171,O-6139,
-Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"P1 - www.cenovus.com</br>
+Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"P1 - www.cenovus.com</br>
 P1 - helix.cenovus.com</br>
 P1 - Sitecore Managed Cloud</br>
 P1 - Huskyenergy.com - Corporate External Website</br>
@@ -173,7 +173,7 @@ P4 - Install Printer Web Page</br>
 P4 - Slido</br>
 P4 - KeePass</br>
 P4 - DataMotion Secure Email</br>",O-6172,O-6167,Large
-Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"P2 - DocuSign (Cloud Solution) </br>
+Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"P2 - DocuSign (Cloud Solution) </br>
 P2 - Visual Studio </br>
 P2 - Snow Software Asset Management </br>
 P2 - HostExplorer </br>
@@ -237,7 +237,7 @@ P4 - Aspose.Email for .NET </br>
 P4 - Smartsheet </br>
 P4 - FreeMind </br>
 P4 - Application Lifecycle Management (ALM) </br>",O-6172,O-6171,XLarge
-Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",No,"P1 - Range Safety Website </br>
+Applications,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CVE,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",Yes,"P1 - Range Safety Website </br>
 P1 - CLAWR Pass Control System </br>
 P1 - SkyRouter </br>
 P1 - Talkmaster </br>
