@@ -1,6 +1,6 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Cenovus,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,Cenovus,O-6065,,
-Sophia Munoz Guzman,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,"Sr. Manager, Corporate IT",O-6068,O-6065,
+Cenovus,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,Cenovus,O-6065,,
+Sophia Munoz Guzman,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",FALSE,"Sr. Manager, Corporate IT",O-6068,O-6065,
 Erin Scott,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,"Manager, Data & Information
 Management",O-6079,O-6068,
 IT,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",FALSE,Portfolio,O-6107,O-6079,
