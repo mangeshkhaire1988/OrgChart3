@@ -228,30 +228,15 @@ P4 - DataMotion Secure Email - Sushree Rutayanee</br>",O-6247,O-6246,Large
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">
   <thead>
     <tr>
-      <th scope=""col"">#</th>
-      <th scope=""col"">First</th>
-      <th scope=""col"">Last</th>
-      <th scope=""col"">Handle</th>
+      <th scope=""col"">Tier</th>
+      <th scope=""col"">Name</th>
+      <th scope=""col"">Primary</th>
+      <th scope=""col"">Secondary</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <th scope=""row"">1</th>
-      <td>Mark</td>
-      <td>Otto</td>
-      <td>@mdo</td>
-    </tr>
-    <tr>
-      <th scope=""row"">2</th>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
-      <th scope=""row"">3</th>
-      <td>Larry</td>
-      <td>the Bird</td>
-      <td>@twitter</td>
-    </tr>
+    <tr>      <th scope='row'>Tier - 4</th>      <td>Prism - Conventional</td>      <td>Roshan Yugendra Perumal</td>      <td>Amit Aher</td>    </tr>
+    <tr>      <th scope='row'>Tier - 2</th>      <td>SAP2Kyriba</td>      <td>Suraksha Gowda</td>      <td>Sushmitha Nunna</td>    </tr>
+     <tr>      <th scope='row'>Tier - 4</th>      <td>Taxprep Forms 2016</td>      <td>Roshan Yugendra Perumal</td> 
   </tbody>
 </table>",O-6248,O-6246,Large
