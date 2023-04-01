@@ -21,46 +21,42 @@ Marketing & Risk,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChar
 Corporate Planning,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag5",Yes,Assignment group,O-6077,O-6073,
 Salesforce Application Support,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag6",Yes,Assignment group,O-6078,O-6073,
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
-    <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>       <td>Sandeep Veeravalli</td>      <td>Sudheesh </td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Sandeep Veeravalli</td>      <td>Sudheesh </td>    </tr>
-  </tbody></table>",O-6079,O-6077,Small
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>PlanningSpace - Prod</td>     <td>Sandeep Veeravalli</td>      <td>Sudheesh </td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>PalantirRESOURCE</td>     <td>Sandeep Veeravalli</td>      <td>Sudheesh </td>    </tr>  </tbody></table>",O-6079,O-6077,Small
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
- <tr>      <th scope='row' class=text-danger>1 - most critical</th>       <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
- <tr>      <th scope='row' class=text-danger>1 - most critical</th>       <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
- <tr>      <th scope='row' class=text-danger>1 - most critical</th>       <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
- <tr>      <th scope='row' class=text-danger>1 - most critical</th>       <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
- <tr>      <th scope='row' class=text-danger>1 - most critical</th>       <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
- <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>       <td>Prem Kumar Gujjeri</td>      <td>Viswa Indana</td>    </tr>
- <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>       <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Prem Kumar Gujjeri</td>      <td>Roshan Perumal</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Prem Kumar Gujjeri</td>      <td>Roshan Perumal</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
- <tr>      <th scope='row' class=>OpenText Content server</th>       <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
-  </tbody></table>",O-6080,O-6075,Large
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>CLAWR Pass Control System</td>     <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>Range Safety Website</td>     <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>SkyRouter</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>Talkmaster</td>     <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>TRBOnet</td>     <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Everbridge</td>     <td>Prem Kumar Gujjeri</td>      <td>Viswa Indana</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>SkillsTrak</td>     <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Causelink - Prod</td>     <td>Prem Kumar Gujjeri</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>CLAWR Occurrence Reporting System</td>     <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>GW3-TRBO</td>     <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>TapRoot - Prod</td>     <td>Prem Kumar Gujjeri</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Cold Lake Air Weapons Range Training Module</td>     <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
+ <tr>      <th scope='row' class=>OpenText Content server</th>      <td>BowTie Prod</td>     <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>  </tbody></table>",O-6080,O-6075,Large
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
- <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>       <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
- <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>       <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Priya Ranjan</td>      <td>Vaseem Shaik</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Vaseem Shaik</td>      <td>Jyoti Surepally</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Sushree Rutayanee</td>      <td>Asha Siddegowda</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Manikant Chauhan</td>      <td>Ramesh Vennarapu</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Priya Ranjan</td>      <td>Sushree Rutayanee</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Amit Aher</td>      <td>Prem Kumar Gujjeri</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Priya Ranjan</td>      <td>Vaseem Shaik</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Sushree Rutayanee</td>      <td>Vaseem Shaik</td>    </tr>
- <tr>      <th scope='row' class=>4 - not critical</th>       <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
-  </tbody></table>",O-6081,O-6076,Large
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>ClearRisk</td>     <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Firmex</td>     <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Contraxx</td>     <td>Priya Ranjan</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Contraxx Admin</td>     <td>Vaseem Shaik</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Nasdaq Boardvantage</td>     <td>Sushree Rutayanee</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Viewnet (previously CakeWare)</td>     <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Crystal Ball 11</td>     <td>Manikant Chauhan</td>      <td>Ramesh Vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>GEMS</td>     <td>Priya Ranjan</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>IPfolio</td>     <td>Amit Aher</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>K Central</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>LexisNexis Quicklaw</td>     <td>Priya Ranjan</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>PwC Connect</td>     <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>SEDAR</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>SPIES III</td>     <td>Sushree Rutayanee</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Teammate</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>  </tbody></table>",O-6081,O-6076,Large
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
-    <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Shraddha Gandla</td>      <td>Vaishnavi Chavan</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Vaseem Shaik</td>      <td>Ramesh Vennarapu</td>    </tr>
- <tr>      <th scope='row' class=text-info>3 - less critical</th>       <td>Vinod Hemachandra</td>      <td>Vaishnavi Chavan</td>    </tr>
-  </tbody></table>",O-6081,O-6074,Small
+Data
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>@Risk</td>     <td>Shraddha Gandla</td>      <td>Vaishnavi Chavan</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>@Risk legacy</td>     <td>Vaseem Shaik</td>      <td>Ramesh Vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Precision Tree Pro (Western Canada)</td>     <td>Vinod Hemachandra</td>      <td>Vaishnavi Chavan</td>    </tr>  </tbody></table>",O-6081,O-6074,Small
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
-     <tr>      <th scope='row'>2 - somewhat critical</th>       <td>Madhu Sudhanarao</td>      <td>Durga Reddy</td>    </tr>
-  </tbody></table>",O-6081,O-6078,Small
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Salesforce - Non-Conformance Management (NCR)</td>     <td>Madhu Sudhanarao</td>      <td>Durga Reddy</td>    </tr>  </tbody></table>",O-6081,O-6078,Small
