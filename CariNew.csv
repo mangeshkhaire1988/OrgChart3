@@ -225,3 +225,20 @@ P4 - Install Printer Web Page - Vennarapu Ramesh</br>
 P4 - Slido - Roshan Yugendra Perumal</br>
 P4 - KeePass - Sanket Khedekar</br>
 P4 - DataMotion Secure Email - Sushree Rutayanee</br>",O-6247,O-6246,Large
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>",O-6248,O-6246,Large
