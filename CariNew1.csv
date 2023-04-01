@@ -31,7 +31,7 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
   </thead>
   <tbody>
  <tr>      <th scope='row'>2 - somewhat critical</th>       <td>Sandeep Veeravalli</td>      <td>Sudheesh </td>    </tr>
- <tr>      <th scope='row'>4 - not critical</th>       <td>Sandeep Veeravalli</td>      <td>Sudheesh </td>    </tr></table>",O-6079,O-6077,Large
+ <tr>      <th scope='row'>4 - not critical</th>       <td>Sandeep Veeravalli</td>      <td>Sudheesh </td>    </tr></table>",O-6079,O-6077,Small
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">
   <thead>
     <tr>
@@ -55,7 +55,7 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
  <tr>      <th scope='row'>4 - not critical</th>       <td>Mangesh Khaire</td>      <td>RoseMaria Jose</td>    </tr>
  <tr>      <th scope='row'>OpenText Content server</th>       <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
   </tbody>
-</table>",O-6080,O-6075,Large
+</table>",O-6080,O-6075,XLarge
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">
   <thead>
     <tr>
@@ -82,7 +82,7 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
  <tr>      <th scope='row'>4 - not critical</th>       <td>Sushree Rutayanee</td>      <td>Vaseem Shaik</td>    </tr>
  <tr>      <th scope='row'>4 - not critical</th>       <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
   </tbody>
-</table>",O-6081,O-6076,Large
+</table>",O-6081,O-6076,XLarge
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">
   <thead>
     <tr>
@@ -94,7 +94,7 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
  <tr>      <th scope='row'>3 - less critical</th>       <td>Vaseem Shaik</td>      <td>Ramesh Vennarapu</td>    </tr>
  <tr>      <th scope='row'>3 - less critical</th>       <td>Vinod Hemachandra</td>      <td>Vaishnavi Chavan</td>    </tr>
   </tbody>
-</table>",O-6081,O-6074,Large
+</table>",O-6081,O-6074,Small
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">
   <thead>
     <tr>
