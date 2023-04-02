@@ -1,6 +1,6 @@
 name,area,imageUrl,profileUrl,office,tags,isOnshoreUser,positionName,id,parentId,size
 Sophia Munoz Guzman,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Sophia.jpg,http://yellowpages/yellowpages/yp.jsp?search=Sophia Munoz Guzman&by=Name,Manager,"Ceo,tag1,manager,cto",Yes,"Sr. Manager, Corporate IT",O-6060,,
-Madhu Sudhanarao,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,http://yellowpages/yellowpages/yp.jsp?search=Madhu Sudhanarao&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Tower Leads,O-6061,O-6060,
+Madhu Sudhanarao,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,http://yellowpages/yellowpages/yp.jsp?search=Madhu Sudhanarao&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Tower Lead,O-6061,O-6060,
 Cari Johnson,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cari.jpg,http://yellowpages/yellowpages/yp.jsp?search=Cari Johnson&by=Name,CEO office,"Ceo,tag1, tag2",Yes,"Manager, Corporate Services
 Applications",O-6062,O-6060,
 Siva Kolanu Sowmitri,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,http://yellowpages/yellowpages/yp.jsp?search=Siva Kolanu Sowmitri&by=Name,CEO office,"Ceo,tag1, tag2",Yes,App Dev Lead,O-6063,O-6060,
