@@ -3,12 +3,12 @@ Sophia Munoz Guzman,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgC
 Madhu Sudhanarao,ACN,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,http://yellowpages/yellowpages/yp.jsp?search=Madhu Sudhanarao&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Tower Lead,O-6061,O-6060,
 Cari Johnson,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Cari.jpg,http://yellowpages/yellowpages/yp.jsp?search=Cari Johnson&by=Name,CEO office,"Ceo,tag1, tag2",Yes,"Manager, Corporate Services
 Applications",O-6062,O-6060,
-Siva Kolanu Sowmitri,ACN,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,http://yellowpages/yellowpages/yp.jsp?search=Siva Kolanu Sowmitri&by=Name,CEO office,"Ceo,tag1, tag2",Yes,App Dev Lead,O-6063,O-6060,
+Siva Kolanu Sowmitri,ACN,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Siva.jpg,http://yellowpages/yellowpages/yp.jsp?search=Siva Kolanu Sowmitri&by=Name,CEO office,"Ceo,tag1, tag2",Yes,App Dev Lead,O-6063,O-6060,
 Curtis Despins,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Curtis.jpg,http://yellowpages/yellowpages/yp.jsp?search=Curtis Despins&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Release Planning Advisor,O-6064,O-6060,
-Kal El Sidawi,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,http://yellowpages/yellowpages/yp.jsp?search=Kal El Sidawi&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Senior Application Advisor,O-6065,O-6062,
+Kal El Sidawi,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Kal.jfif,http://yellowpages/yellowpages/yp.jsp?search=Kal El Sidawi&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Senior Application Advisor,O-6065,O-6062,
 Richard Cwik,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Richard.jpg,http://yellowpages/yellowpages/yp.jsp?search=Richard Cwik&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Senior Application Advisor,O-6066,O-6062,
 Mayra Meza Gonzales,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Woman.png,http://yellowpages/yellowpages/yp.jsp?search=Mayra Meza Gonzales&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Senior Application Advisor,O-6067,O-6062,
-Wendy Choi,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,http://yellowpages/yellowpages/yp.jsp?search=Wendy Choi&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Senior Application Advisor,O-6068,O-6062,
+Wendy Choi,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Wendy.jfif,http://yellowpages/yellowpages/yp.jsp?search=Wendy Choi&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Senior Application Advisor,O-6068,O-6062,
 Lane Gibson,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Lane.jpg,http://yellowpages/yellowpages/yp.jsp?search=Lane Gibson&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Senior Application Advisor,O-6069,O-6062,
 Nicolas Ho,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Nicolas.jpg,http://yellowpages/yellowpages/yp.jsp?search=Nicolas Ho&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Senior Application Advisor,O-6070,O-6062,
 Rose Burton,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Rose.jpg,http://yellowpages/yellowpages/yp.jsp?search=Rose Burton&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Senior Application Advisor,O-6071,O-6062,
@@ -206,7 +206,7 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
  <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>M-Files</td>     <td>Vennarapu Ramesh</td>      <td>Vaseem Shaik</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>The Ironhub</td>     <td>Hemanth Nalajala</td>      <td>Sushmitha Nunna</td>    </tr>
 </tbody></table>",O-6115,O-6108,Small
-Madhu Sudhanarao,ACN,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Man.png,http://yellowpages/yellowpages/yp.jsp?search=Madhu Sudhanarao&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Application Steward,O-6116,O-6066,
+Madhu Sudhanarao,ACN,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Madhu.jpg,http://yellowpages/yellowpages/yp.jsp?search=Madhu Sudhanarao&by=Name,CEO office,"Ceo,tag1, tag2",Yes,Application Steward,O-6116,O-6066,
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Acumen Fuse</td>     <td>Imran Mohammad</td>      <td>Hemanth Nalajala</td>    </tr>
 </tbody></table>",O-6117,O-6116,Small
