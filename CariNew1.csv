@@ -207,3 +207,77 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
  <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>M-Files</td>     <td>Vennarapu Ramesh</td>      <td>Vaseem Shaik</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>The Ironhub</td>     <td>Hemanth Nalajala</td>      <td>Sushmitha Nunna</td>    </tr>
 </tbody></table>",O-6115,O-6108,Small
+Madhu Sudhanarao,ACN,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Application Steward,O-6116,O-6066,
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Acumen Fuse</td>     <td>Imran Mohammad</td>      <td>Hemanth Nalajala</td>    </tr>
+</tbody></table>",O-6117,O-6116,Small
+Madhu Sudhanarao,ACN,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Application Steward,O-6118,O-6071,
+Retail Application Support,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6119,O-6118,
+Comms & Stakeholder Relations IT,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6120,O-6118,
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Enspecs - Engineering Specs</td>     <td>Prem Kumar Gujjeri</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Yellow Pages</td>     <td>Priya Ranjan</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Dynamic Distribution Tool</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>ESS - PRD</td>     <td>Sushree Rutayanee</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>FindPerson</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Google Analytics</td>     <td>Rose Maria Jose</td>      <td>Hemanth Nalajala</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Google Tag Manager</td>     <td>Rose Maria Jose</td>      <td>Hemanth Nalajala</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>iContact</td>     <td>Vennarapu Ramesh</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Install Printer Web Page</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Meltwater</td>     <td>Vennarapu Ramesh</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Slido</td>     <td>Roshan Yugendra Perumal</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Stakeholder Tracking System (StakeTracker)</td>     <td>Hemanth Nalajala</td>      <td>Sushmitha Nunna</td>    </tr>
+</tbody></table>",O-6121,O-6120,Large
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>Huskyworks.ca - Retail External Website</td>     <td>Sandeep Veeravalli</td>      <td>Sudheesh </td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>myHuskyRewards.ca - Retail External Website</td>     <td>Sandeep Veeravalli</td>      <td>Sudheesh </td>    </tr>
+</tbody></table>",O-6122,O-6119,Small
+Mangesh Khaire,ACN,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Application Steward,O-6123,O-6068,
+"Environment, Health and Safety",CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6124,O-6123,
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>Fenceline Pro</td>     <td>Ravi Marlapudi</td>      <td>Viswa Indana</td>    </tr>
+ <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>MyGeotab Portal (WSDS) DriveSafe</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>WebIAP</td>     <td>Prem Kumar Gujjeri</td>      <td>Viswa Indana</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Benzene Advisor</td>     <td>Hemanth Nalajala</td>      <td>Sushmitha Nunna</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Blackline Safety</td>     <td>Santoshkumar Chavan</td>      <td>Priya Ranjan</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>CATs - Compliance Assurance Tracking System - Q5 systems</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Compliance Task Manager (Toledo-TSA)</td>     <td>Santoshkumar Chavan</td>      <td>Brijesh Kaurav</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>CRFM - Corporate Responsibility Facility Master</td>     <td>Vaseem Shaik</td>      <td>Anusha Thangirala/Ravi</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Emission Central and Emission Trak (CNTRAL)</td>     <td>Prem Kumar Gujjeri</td>      <td>Viswa Indana</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>FieldSafe Journey Management</td>     <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>HuskySafe</td>     <td>Amit Aher</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>IMS - Data Archive</td>     <td>Santoshkumar Chavan</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Industrial Hygiene Software - CTS System (Open Range)</td>     <td>Srinivas Gurazala</td>      <td>Sushmitha Nunna</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Intelex</td>     <td>Mayur Shirore</td>      <td>Brijesh Kaurav</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>OpsInfo (Calgary)</td>     <td>Sushmitha Srinivasa Nunna</td>      <td>Hemanth Nalajala</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>OpsInfo (Lima)</td>     <td>Sushmitha Srinivasa Nunna</td>      <td>Hemanth Nalajala</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>opsInfo Gateway API (Calgary)</td>     <td>Vaseem Shaik</td>      <td>Ravi</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Phast</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Visium KMS - MOC</td>     <td>Ravi Marlapudi</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>CanWrite - BRW</td>     <td>Priya Ranjan</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Centrac</td>     <td>Vennarapu Ramesh</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Electronic Waste Management</td>     <td>Asha Siddegowda</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>ISNetworld</td>     <td>Sushree Rutayanee</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Nexstorm</td>     <td>Amit Aher</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>SER</td>     <td>Saransh Goel</td>      <td>Kaushik Saha</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>SER Datamart and Reporting</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Water License Tracking</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>BIOS Optimizer</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Building Reports Canada</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Data Trac 2000</td>     <td>Asha Siddegowda</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>DDS</td>     <td>Asha Siddegowda</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Detection Management System</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>DSS Admin Console</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Emission Manager</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>ERCB H2S</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Fuel Flare Vent Manager</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Greenpath Energy Portal</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>H2Respond</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>HWM (Husky Waste Management)</td>     <td>Vaseem Shaik</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Impact (Data Archive)</td>     <td>Santoshkumar Chavan</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Portacount Pro</td>     <td>Amit Aher</td>      <td>Ramesh vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Posi 3 USB</td>     <td>Santoshkumar Chavan</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Quest Suite Pro II</td>     <td>Amit Aher</td>      <td>Ramesh vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>SDS Binders</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Surface Case Vent Flow (ClearCompliance)</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+</tbody></table>",O-6125,O-6124,XXLarge
