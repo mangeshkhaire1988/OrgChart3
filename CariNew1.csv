@@ -131,3 +131,79 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Salesforce - HR Infoline</td>     <td>Madhu Sudhanarao</td>      <td>Akshika Jain</td>    </tr>
 </tbody></table>",O-6102,O-6094,Small
+Mangesh Khaire,ACN,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Application Steward,O-6103,O-6070,
+"Finance, Legal and SPPM",CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6104,O-6103,
+Production Management,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6105,O-6103,
+Land Asset Management,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6106,O-6103,
+Salesforce Application Support,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6107,O-6103,
+Supply Chain Management,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6108,O-6103,
+Comms & Stakeholder Relations IT,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6109,O-6103,
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Celonis Process Mining</td>     <td>Ruthvik Anand Marshetty</td>      <td>Radha Krishna</td>    </tr>
+</tbody></table>",O-6110,O-6109,Small
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>Metrix</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>IA Check Scanner</td>     <td>Sandesh Kadam</td>      <td>Sanket Khedekar</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Kyriba</td>     <td>Sushmitha Srinivasa Nunna</td>      <td>Suraksha CR</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>OpenInvoice</td>     <td>Asha Siddegowda</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>OpenInvoice - Conventional</td>     <td>Asha Siddegowda</td>      <td>Ramesh Vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>OpenInvoice - Oil Sands</td>     <td>Asha Siddegowda</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Optix</td>     <td>Ramesh Vennarapu</td>      <td>Priya ranjan</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>PA2FIN (SAP Connected)</td>     <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>SAP2Kyriba</td>     <td>Suraksha Gowda</td>      <td>Sushmitha Nunna</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>TaxPrep T2</td>     <td>Roshan Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>CashPro Online</td>     <td>Vennarapu Ramesh</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Corporate TaxPrep 2021</td>     <td>Roshan Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Corporate TaxPrep 2022</td>     <td>Roshan Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>EIS Task Manager</td>     <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Equalizer</td>     <td>Vennarapu Ramesh</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Gasflow</td>     <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Lease Opex Accruals</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Lucernex</td>     <td>Vennarapu Ramesh</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Petrinex</td>     <td>Vennarapu Ramesh</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>PRROS - PRD - BRW</td>     <td>Asha Siddegowda</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>RBC-Express</td>     <td>Manikant Chauhan</td>      <td>Priya Ranjan</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Revenue & Royalty Accrual Tool</td>     <td>Vennarapu Ramesh</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>RMS - PRD</td>     <td>Prem Kumar Gujjeri</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Taxprep Forms 2021 </td>     <td>Roshan Yugendra Perumal</td>      <td>Viswa Indana</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>CentreSuite</td>     <td>Vennarapu Ramesh</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Corporate Taxprep 2012</td>     <td>Vaseem Shaik</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Corporate Taxprep 2013</td>     <td>Vaseem Shaik</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Corporate Taxprep 2014</td>     <td>Vaseem Shaik</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Corporate Taxprep 2015</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Corporate Taxprep 2016</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Corporate Taxprep 2017</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Corporate Taxprep 2018</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Corporate TaxPrep 2019</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Energy Link</td>     <td>Vaseem Shaik</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Metrix Legacy CVE</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>PAS - Conventional</td>     <td>Amit Aher</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Prism - Conventional</td>     <td>Roshan Yugendra Perumal</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>TaxFind Renewal Series 10.2</td>     <td>Prem Kumar Gujjeri</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>TaxPrep Forms 2013</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>TaxPrep Forms 2014</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Taxprep Forms 2015</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Taxprep Forms 2016</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Taxprep Forms 2017</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Taxprep Forms 2018</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Taxprep Forms 2019</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+</tbody></table>",O-6111,O-6104,XXLarge
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Material Master Request System (MMRS)</td>     <td>Sujatha Ambedkar</td>      <td>Bhavya Tankala</td>    </tr>
+</tbody></table>",O-6112,O-6106,Small
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>PAS</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>GRM - Gas Royalty Manager (EDI Viewer)</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Integrated Data Management System (IDMS)</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Intricate Solutions (Platform)</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>PAS Tools</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>Petrinex (Webapp)</td>     <td>Shraddha Gandla</td>      <td>Vaishnavi Chavan</td>    </tr>
+</tbody></table>",O-6113,O-6105,Medium
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Salesforce - Procurement Reporting, Execution and Planning Tool (PREP)</td>     <td>Madhu Sudhanarao</td>      <td>Akshika Jain</td>    </tr>
+</tbody></table>",O-6114,O-6107,Small
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Surplus Inventory Sales</td>     <td>Vaseem Shaik</td>      <td>Ramesh Vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=text-info>Tier 3</th>      <td>M-Files</td>     <td>Vennarapu Ramesh</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>The Ironhub</td>     <td>Hemanth Nalajala</td>      <td>Sushmitha Nunna</td>    </tr>
+</tbody></table>",O-6115,O-6108,Small
