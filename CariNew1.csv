@@ -92,7 +92,7 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
  <tr>      <th scope='row' class=>Tier 4</th>      <td>SEB</td>     <td>Sushree Rutayanee</td>      <td>Prem Kumar Gujjeri</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Splan Visitor Management</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>VidCruiter</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
- <tr>      <th scope='row' class=>Tier 4</th>      <td>Wellness Checkpoint</td>     <td>Vaseem Shaik</td>      <td>Prem Kumar Gujjeri</td>    </tr></tbody></table>",O-6096,O-6095,
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Wellness Checkpoint</td>     <td>Vaseem Shaik</td>      <td>Prem Kumar Gujjeri</td>    </tr></tbody></table>",O-6096,O-6095,Large
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>Avigilon Control Centre</td>     <td>Asha Siddegowda</td>      <td>Vaseem Shaik</td>    </tr>
  <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>C-CURE 9000</td>     <td>Mangesh Khaire</td>      <td>Sushree Rutayanee</td>    </tr>
@@ -113,21 +113,21 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Geotab</td>     <td>Amit Aher</td>      <td>Asha Siddegowda</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Intelligent Lockers</td>     <td>Santoshkumar Chavan</td>      <td>Jyoti Surepally</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Kantech Entrapass Global Software</td>     <td>Prem Kumar Gujjeri</td>      <td>Roshan Perumal</td>    </tr>
- <tr>      <th scope='row' class=>Tier 4</th>      <td>Lobby List</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr></tbody></table>",O-6097,O-6089,
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Lobby List</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr></tbody></table>",O-6097,O-6089,Large
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Benevity Saas Application</td>     <td>Prem Kumar Gujjeri</td>      <td>Asha Siddegowda</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Benevity Spark</td>     <td>Sushree Rutayanee</td>      <td>Santoshkumar Chavan</td>    </tr>
-</tbody></table>",O-6098,O-6092,
+</tbody></table>",O-6098,O-6092,Small
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>Gallagher</td>     <td>Ravi Marlapudi</td>      <td>Amit Aher</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Pegasys Reporting Engine</td>     <td>Asha Siddegowda</td>      <td>Ramesh Vennarapu</td>    </tr>
-</tbody></table>",O-6099,O-6090,
+</tbody></table>",O-6099,O-6090,Small
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Revit</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
-</tbody></table>",O-6100,O-6093,
+</tbody></table>",O-6100,O-6093,Small
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-danger>Tier 1</th>      <td>INNfinity</td>     <td>Vennarapu Ramesh</td>      <td>Asha Siddegowda</td>    </tr>
-</tbody></table>",O-6101,O-6091,
+</tbody></table>",O-6101,O-6091,Small
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Salesforce - HR Infoline</td>     <td>Madhu Sudhanarao</td>      <td>Akshika Jain</td>    </tr>
-</tbody></table>",O-6102,O-6094,
+</tbody></table>",O-6102,O-6094,Small
