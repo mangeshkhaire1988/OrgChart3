@@ -114,7 +114,7 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Geotab</td>     <td>Amit Aher</td>      <td>Asha Siddegowda</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Intelligent Lockers</td>     <td>Santoshkumar Chavan</td>      <td>Jyoti Surepally</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Kantech Entrapass Global Software</td>     <td>Prem Kumar Gujjeri</td>      <td>Roshan Perumal</td>    </tr>
- <tr>      <th scope='row' class=>Tier 4</th>      <td>Lobby List</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr></tbody></table>",O-6097,O-6089,Large
+ <tr>      <th scope='row' class=>Tier 4</th>      <td>Lobby List</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr></tbody></table>",O-6097,O-6089,XXLarge
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Ceo,tag1, tag2",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-warning>Tier 2</th>      <td>Benevity Saas Application</td>     <td>Prem Kumar Gujjeri</td>      <td>Asha Siddegowda</td>    </tr>
  <tr>      <th scope='row' class=>Tier 4</th>      <td>Benevity Spark</td>     <td>Sushree Rutayanee</td>      <td>Santoshkumar Chavan</td>    </tr>
