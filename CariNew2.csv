@@ -157,3 +157,138 @@ Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/m
 Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,Operations Application Support (Accenture),Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
  <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Franklin Covey</td>     <td>Mayra Meza Gonzales</td>      <td></td>    </tr>
 </tbody></table>",O-6102,O-6090,Small
+Comms & Stakeholder Relations IT,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6103,O-6075,
+"Finance, Legal and SPPM",CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6104,O-6075,
+Land Asset Management,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6105,O-6075,
+Production Management,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6106,O-6075,
+Salesforce Application Support,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6107,O-6075,
+Supply Chain Management,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6108,O-6075,
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,Comms & Stakeholder Relations IT,Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Celonis Process Mining</td>     <td>Ruthvik Anand Marshetty</td>      <td>Radha Krishna</td>    </tr>
+</tbody></table>",O-6109,O-6103,Small
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Finance, Legal and SPPM",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>Metrix</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>OpenInvoice - Oil Sands</td>     <td>Asha Siddegowda</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>SAP2Kyriba</td>     <td>Suraksha Gowda</td>      <td>Sushmitha Nunna</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>OpenInvoice - Conventional</td>     <td>Asha Siddegowda</td>      <td>Ramesh Vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>TaxPrep T2</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Taxprep Forms 2022</td>     <td>Roshan Yugendra Perumal</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Kyriba</td>     <td>Sushmitha Srinivasa Nunna</td>      <td>Suraksha CR</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Optix</td>     <td>Vennarapu Ramesh</td>      <td>Priya ranjan</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>PA2FIN (SAP Connected)</td>     <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>OpenInvoice</td>     <td>Asha Siddegowda</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>IA Check Scanner</td>     <td>Sandesh Kadam</td>      <td>Sanket Khedekar</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Lease Opex Accruals</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Taxprep Forms 2021 </td>     <td>Roshan Yugendra Perumal</td>      <td>Viswa Indana</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Equalizer</td>     <td>Vennarapu Ramesh</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Gasflow</td>     <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Petrinex</td>     <td>Vennarapu Ramesh</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>RMS - PRD</td>     <td>Prem Kumar Gujjeri</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Corporate TaxPrep 2021</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>RBC-Express</td>     <td>Manikant Chauhan</td>      <td>Priya Ranjan</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>PA2FIN (SAP Connected) – Non Prod</td>     <td>Prem Kumar Gujjeri</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>EIS Task Manager</td>     <td>Prem Kumar Gujjeri</td>      <td>Silpa Prasad</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Lucernex</td>     <td>Vennarapu Ramesh</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Revenue & Royalty Accrual Tool</td>     <td>Vennarapu Ramesh</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>PRROS - PRD - BRW</td>     <td>Asha Siddegowda</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Corporate TaxPrep 2022</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>CashPro Online</td>     <td>Vennarapu Ramesh</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Corporate Taxprep 2014</td>     <td>Vaseem Shaik</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Taxprep Forms 2019</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Taxprep Forms 2018</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Corporate Taxprep 2016</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Corporate Taxprep 2012</td>     <td>Vaseem Shaik</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Taxprep Forms 2015</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Metrix Legacy CVE</td>     <td>Vennarapu Ramesh</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>PRROS - TQA - BRW</td>     <td>Asha Siddegowda</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Corporate TaxPrep 2019</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>RMS - PPRD</td>     <td>Prem Kumar Gujjeri</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>CentreSuite</td>     <td>Vennarapu Ramesh</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Corporate Taxprep 2013</td>     <td>Vaseem Shaik</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Energy Link</td>     <td>Vaseem Shaik</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Prism - Conventional</td>     <td>Roshan Yugendra Perumal</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>PAS - Conventional</td>     <td>Amit Aher</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Corporate Taxprep 2018</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>TaxFind Renewal Series 10.2</td>     <td>Prem Kumar Gujjeri</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>TaxPrep Forms 2013</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Corporate Taxprep 2015</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>IA Check Scanner - NonProd</td>     <td>Sandesh Kadam</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Taxprep Forms 2017</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Taxprep Forms 2016</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Corporate Taxprep 2017</td>     <td>Roshan Yugendra Perumal</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>TaxPrep Forms 2014</td>     <td>Roshan Yugendra Perumal</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Gasflow - TEST</td>     <td>Prem Kumar Gujjeri</td>      <td></td>    </tr>
+</tbody></table>",O-6110,O-6104,XXXLarge
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,Land Asset Management,Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Material Master Request System (MMRS)</td>     <td>Tankala Bhavya</td>      <td>Bhavya Tankala</td>    </tr>
+</tbody></table>",O-6111,O-6105,Small
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,Production Management,Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>PAS</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Intricate Solutions (Platform)</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Integrated Data Management System (IDMS)</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>PAS Tools</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>GRM - Gas Royalty Manager (EDI Viewer)</td>     <td>Harika Madapu</td>      <td>Manoj Chindam</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Petrinex (Webapp)</td>     <td>Shraddha Gandla</td>      <td>Vaishnavi Chavan</td>    </tr>
+</tbody></table>",O-6112,O-6106,Medium
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,Salesforce Application Support,Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Salesforce - Procurement Reporting, Execution and Planning Tool (PREP)</td>     <td>Madhu Sudhanarao</td>      <td>Akshika Jain</td>    </tr>
+</tbody></table>",O-6113,O-6107,Small
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,Supply Chain Management,Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Surplus Inventory Sales</td>     <td>Vaseem Shaik</td>      <td>Ramesh Vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>M-Files</td>     <td>Vennarapu Ramesh</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>The Ironhub</td>     <td>Hemanth Nalajala</td>      <td>Sushmitha Nunna</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Surplus Inventory Sales - Non-Prod</td>     <td>Vaseem Shaik</td>      <td></td>    </tr>
+</tbody></table>",O-6114,O-6108,Medium
+"Environment, Health and Safety",CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Portfolio.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/User.png,CEO office,"Ceo,tag1, tag2",Yes,Assignment group,O-6115,O-6076,
+Applications,CVE,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,https://raw.githubusercontent.com/mangeshkhaire1988/OrgChart3/main/Applications.png,CEO office,"Environment, Health and Safety",Yes,"<table class=""table"">  <thead>    <tr>       <th scope=""col"">Tier</th>      <th scope=""col"">Name</th>      <th scope=""col"">Primary</th>      <th scope=""col"">Secondary</th>    </tr>  </thead>  <tbody>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>Visual Flare</td>     <td>Himanshu Sharma</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>MyGeotab Portal (WSDS) DriveSafe</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>Fenceline Pro</td>     <td>Ravi Marlapudi</td>      <td>Viswa Indana</td>    </tr>
+ <tr>      <th scope='row' class=text-danger>1 - most critical</th>      <td>WebIAP</td>     <td>Prem Kumar Gujjeri</td>      <td>Viswa Indana</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Phast</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Visium KMS - MOC</td>     <td>Ravi Marlapudi</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Industrial Hygiene Software - CTS System (Open Range)</td>     <td>Srinivas Gurazala</td>      <td>Sushmitha Nunna</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Blackline Safety</td>     <td>Santoshkumar Chavan</td>      <td>Priya Ranjan</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>HuskySafe</td>     <td>Amit Aher</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>CATs - Compliance Assurance Tracking System - Q5 systems</td>     <td>Viswa Indana</td>      <td>Prem Kumar Gujjeri</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>OpsInfo (Lima)</td>     <td>Sushmitha Srinivasa Nunna</td>      <td>Hemanth Nalajala</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>FieldSafe Journey Management</td>     <td>Prem Kumar Gujjeri</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Benzene Advisor</td>     <td>Hemanth Nalajala</td>      <td>Sushmitha Nunna</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Intelex</td>     <td>Mayur Jayprakash Shirore</td>      <td>Brijesh Kaurav</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Emission Central and Emission Trak (CNTRAL)</td>     <td>Prem Kumar Gujjeri</td>      <td>Viswa Indana</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>IMS - Data Archive</td>     <td>Santoshkumar Chavan</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>opsInfo Gateway API (Calgary)</td>     <td>Vaseem Shaik</td>      <td>Ravi</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>CRFM - Corporate Responsibility Facility Master</td>     <td>Vaseem Shaik</td>      <td>Anusha Thangirala/Ravi</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>Compliance Task Manager (Toledo-TSA)</td>     <td>Santoshkumar Chavan</td>      <td>Brijesh Kaurav</td>    </tr>
+ <tr>      <th scope='row' class=text-warning>2 - somewhat critical</th>      <td>OpsInfo (Calgary)</td>     <td>Sushmitha Srinivasa Nunna</td>      <td>Hemanth Nalajala</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>SER Datamart and Reporting</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Electronic Waste Management - PRD - BRW</td>     <td>Asha Siddegowda</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Electronic Waste Management</td>     <td>Asha Siddegowda</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>CanWrite - BRW</td>     <td>Priyaranjan Kumar</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Centrac - BRW</td>     <td>Vennarapu Ramesh</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Centrac</td>     <td>Vennarapu Ramesh</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Nexstorm</td>     <td>Amit Aher</td>      <td>Roshan Perumal</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>Water License Tracking</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>ISNetworld</td>     <td>Sushree Rutayanee</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=text-info>3 - less critical</th>      <td>SER</td>     <td>Saransh Goel</td>      <td>Kaushik Saha</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>H2Respond</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Impact (Data Archive)</td>     <td>Santoshkumar Chavan</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Quest Suite Pro II</td>     <td>Amit Aher</td>      <td>Ramesh vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>DDS</td>     <td>Asha Siddegowda</td>      <td>Vaseem Shaik</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Emission Manager</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>BIOS Optimizer</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>SDS Binders</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>HWM (Husky Waste Management)</td>     <td>Vaseem Shaik</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Data Trac 2000</td>     <td>Asha Siddegowda</td>      <td>Sushree Rutayanee</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Smartsheet</td>     <td>Vaseem Shaik</td>      <td>Jyoti Surepally</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Portacount Pro</td>     <td>Amit Aher</td>      <td>Ramesh vennarapu</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Electronic Waste Management - TQA</td>     <td>Asha Siddegowda</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>ERCB H2S</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Posi 3 USB</td>     <td>Santoshkumar Chavan</td>      <td>Asha Siddegowda</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Building Reports Canada</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>DSS Admin Console</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Detection Management System</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Fuel Flare Vent Manager</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Electronic Waste Management - TQA - BRW</td>     <td>Asha Siddegowda</td>      <td></td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Surface Case Vent Flow (ClearCompliance)</td>     <td>Santoshkumar Chavan</td>      <td>Amit Aher</td>    </tr>
+ <tr>      <th scope='row' class=>4 - not critical</th>      <td>Greenpath Energy Portal</td>     <td>Amit Aher</td>      <td>Santoshkumar Chavan</td>    </tr></tbody></table>",O-6116,O-6115,XXXLarge
